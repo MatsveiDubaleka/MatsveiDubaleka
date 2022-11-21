@@ -23,8 +23,11 @@ Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node
 
 
 ## 🛠 Skills
+
 React, Node.JS, TypeScript, JavaScript, HTML, SCSS/SASS, MongoDB, Express.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatsveiDubaleka)](https://github.com/MatsveiDubaleka/github-readme-stats)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://katherineoelsner.com/)
 
