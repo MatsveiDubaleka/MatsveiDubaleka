@@ -14,8 +14,6 @@ Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node
 
 👯‍♀️ I'm looking to collaborate on TypeScript + React, or FullStack App/SPA.
 
-🤔 I'm looking for help with Job :D
-
 💬 Ask me about something :)
 
 📫 How to reach me just write me in my social networks;
