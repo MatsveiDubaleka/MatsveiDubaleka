@@ -1,8 +1,8 @@
 # Hi, I'm Matsvei! 👋
 
 ## 🚀 About Me
-I'm looking for a job as a Front-end Developer. Successfully completed The Rolling Scopes School - JavaScript/Front-end course.
-Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node.js. I am currently taking a course on React. 
+I'm a Full-stack engineer. Successfully completed The Rolling Scopes School - JavaScript/Front-end course.
+Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node.js.
 
 👩‍💻 I'm currently in Enrex
 
