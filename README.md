@@ -4,7 +4,7 @@
 I'm looking for a job as a Front-end Developer. Successfully completed The Rolling Scopes School - JavaScript/Front-end course.
 Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node.js. I am currently taking a course on React. 
 
-👩‍💻 I'm currently working on final task on The Rolling Scopes React Course - Project Management App.
+👩‍💻 I'm currently in Enrex
 
 🧠 I'm currently learning React, Node.js, TypeScript.
 
