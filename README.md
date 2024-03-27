@@ -4,9 +4,7 @@
 I'm a Full-stack engineer. Successfully completed The Rolling Scopes School - JavaScript/Front-end course.
 Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node.js.
 
-👩‍💻 I'm currently in Enrex
-
-🧠 I'm currently learning React, Node.js, TypeScript.
+👩‍💻 I'm working in Enrex
 
 👯‍♀️ I'm looking to collaborate on TypeScript + React, or FullStack App/SPA.
 
