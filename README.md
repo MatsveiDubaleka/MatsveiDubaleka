@@ -1,12 +1,12 @@
 # Hi, I'm Matsvei! 👋
 
 ## 🚀 About Me
-I'm a Full-stack engineer. Successfully completed The Rolling Scopes School - JavaScript/Front-end course.
-Stack: Javascript (ES6), Typescript, Sass, Webpack, Git, basic knowledge of Node.js.
+I'm a Full-Stack Engineer.
+Stack: Javascript (ES6), ReactJS, NextJS, Typescript, SCSS, Webpack, Git, NodeJS, Express.js.
 
 👩‍💻 I'm working in TokenWars
 
-👯‍♀️ I'm looking to collaborate on TypeScript + React, or FullStack App/SPA.
+👯‍♀️ I'm looking to collaborate on TypeScript + React, or Full-Stack App/SPA.
 
 💬 Ask me about something :)
 
