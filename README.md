@@ -4,8 +4,6 @@
 I'm a Full-Stack Engineer.
 Stack: Javascript (ES6), ReactJS, NextJS, Typescript, SCSS, Webpack, Git, NodeJS, Express.js.
 
-👩‍💻 I'm working in Futurist
-
 👯‍♀️ I'm looking to collaborate on TypeScript + React, or Full-Stack App/SPA.
 
 💬 Ask me about something :)
