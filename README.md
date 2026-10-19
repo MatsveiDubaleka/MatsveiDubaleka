@@ -1,6 +1,6 @@
 # Hi, I'm Matsvei Dubaleka 👋
 
-**Frontend Engineer** based in Minsk, Belarus.  
+**Frontend Engineer** based in Grodno, Belarus.  
 4+ years building web applications with **React, Next.js, TypeScript, Node.js**, and modern UI tooling.  
 Currently open to **Frontend / Full-Stack roles in the EU with relocation and visa sponsorship**.
 
