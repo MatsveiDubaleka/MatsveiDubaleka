@@ -23,7 +23,7 @@ Currently open to **Frontend / Full-Stack roles in the EU with relocation and vi
 - Designed and delivered a REST API with **20 MongoDB models** and **~60 endpoints**.
 - Improved ChatGPT prompt accuracy by **2.5×** through structured prompt engineering and evaluation.
 - Built an internal messenger used by **134 members** inside a community platform.
-- Product reached **10,000+ users** on the TON blockchain (TonRafflesV2).
+- Product reached **10,000+ users** on the TON blockchain.
 
 ---
 
