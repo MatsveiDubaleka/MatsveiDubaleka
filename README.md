@@ -47,7 +47,7 @@ COVID web app for lung segmentation, finalist of an international AI competition
 
 ## 🎓 Education & Courses
 
-- **BSUIR MRC** — Diploma of vocational education in Electronics and Computer Means, 2019 – present.
+- **BSUIR MRC** — Diploma of vocational education in Electronics and Computer Means, 2019 – 2023.
 - **RS-School / EPAM** — adaptive websites, DOM, Codewars, live-streaming and payment testing.
 - **HTML Academy** — responsive layout, automation, professional website layout.
 
