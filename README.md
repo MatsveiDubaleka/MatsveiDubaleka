@@ -23,7 +23,7 @@ Currently open to **Frontend / Full-Stack roles in the EU with relocation and vi
 - Designed and delivered a REST API with **20 MongoDB models** and **~60 endpoints**.
 - Improved ChatGPT prompt accuracy by **2.5×** through structured prompt engineering and evaluation.
 - Built an internal messenger used by **134 members** inside a community platform.
-- Product reached **10,000+ users** on the TON blockchain.
+- Product reached **10,000+ users** on the TON blockchain (TonRafflesV2).
 
 ---
 
@@ -76,11 +76,12 @@ Currently open to **Frontend / Full-Stack roles in the EU with relocation and vi
 
 ## 📫 Contact
 
-- **Email:** me@duboleko.ru  
+- **Email:** matvey.duboleko@yandex.by  
 - **LinkedIn:** [matsvei-dubaleka-922a77231](https://www.linkedin.com/in/matsvei-dubaleka-922a77231/)  
 - **GitHub:** [MatsveiDubaleka](https://github.com/MatsveiDubaleka)  
 - **Telegram:** [@MatsveiDubaleka](https://t.me/MatsveiDubaleka)  
-- **Phone:** +375 (44) 715-11-03
+- **Phone:** +375 (44) 715-11-03  
+- **Location:** Grodno, Belarus
 
 > Open to relocation to the EU (Germany, Netherlands, Austria, Portugal). Require visa sponsorship.  
 > English: B2 · Russian: native · Belarusian: native
